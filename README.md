@@ -81,8 +81,8 @@ Feel free to reach out for any collaboration opportunities, projects, or just a 
 
 - **Email:** yogesh@example.com  
 - **LinkedIn:** [linkedin.com/in/yogesh-ingulkar](https://linkedin.com/in/yogesh-ingulkar)  
-- **GitHub:** [github.com/yogesh-ingulkar](https://github.com/yogeshingulkar)  
-- **Portfolio:** [yourportfolio.com](https://yogeshingulkar.odoo.com/) 
+- **GitHub:** [github.com/yogeshingulkar](https://github.com/yogeshingulkar)  
+- **Portfolio:** [myportfolio.com](https://yogeshingulkar.odoo.com/) 
 
 ---
 
