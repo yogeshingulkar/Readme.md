@@ -79,7 +79,7 @@ Hi! I'm Yogesh Ingulkar, a passionate and driven individual currently pursuing a
 
 Feel free to reach out for any collaboration opportunities, projects, or just a good tech discussion!
 
-- **Email:** yogesh@example.com  
+- **Email:** yogeshingulkar750@gmail.com  
 - **LinkedIn:** [linkedin.com/in/yogesh-ingulkar](https://linkedin.com/in/yogesh-ingulkar)  
 - **GitHub:** [github.com/yogeshingulkar](https://github.com/yogeshingulkar)  
 - **Portfolio:** [myportfolio.com](https://yogeshingulkar.odoo.com/) 
