@@ -58,10 +58,10 @@ Hi! I'm Yogesh Ingulkar, a passionate and driven individual currently pursuing a
 ## Education
 
 - **Master’s in Computer Science** (In Progress)  
-  - *University Name* | *Graduation Year*
+  - *Savitribai Phule Pune University* | *Pursuing*
 
 - **Bachelor’s in Computer Science**  
-  - *University Name* | *Graduation Year*
+  - *Savitribai Phule Pune University* | *2023*
 
 ---
 
