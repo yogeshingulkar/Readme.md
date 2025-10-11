@@ -1,96 +1,89 @@
-# Yogesh Ingulkar
+# 👋 Hi, I'm Yogesh Ingulkar
 
 **He/Him**  
-*Master's Student in Computer Science*  
-*Web-App Developer | Graphics Designer | UI/UX Enthusiast*
+🎓 *Master’s Student in Computer Science (SPPU’25)*  
+💻 *Web-App Developer | UI/UX Enthusiast | Creative Designer*  
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Hi! I'm Yogesh Ingulkar, a passionate and driven individual currently pursuing a Master’s in Computer Science. I specialize in web development, with experience in the MERN stack, UI/UX design, and creating seamless user experiences across platforms. I'm also skilled in graphics design and committed to creating aesthetically pleasing and user-friendly applications.
+I’m **Yogesh Ingulkar**, a passionate and creative **Web Developer** and **UI/UX Designer** pursuing my **Master’s in Computer Science**.  
+I specialize in building **responsive web applications** using the **MERN stack**, and designing clean, intuitive, and user-friendly interfaces.
 
----
-
-## Skills
-
-### Development
-
-- **Languages:**  
-  - Java  
-  - C++  
-  - HTML/CSS  
-  - JavaScript  
-- **Frameworks & Libraries:**  
-  - **MERN Stack:** MongoDB, Express.js, React.js, Node.js  
-  - UI/UX Design  
-  - Bootstrap, Tailwind CSS  
-- **Version Control:**  
-  - Git, GitHub  
-- **Tools & Technologies:**  
-  - Visual Studio Code  
-  - Postman, Insomnia  
-  - MongoDB Atlas  
-  - Firebase  
-
-### Design
-
-- **Graphic Design:**  
-  - Adobe Photoshop, Illustrator  
-  - Figma, Sketch  
-  - Brand Identity Creation
+My mission?  
+To combine **code and creativity** to craft meaningful digital experiences that people *love to use*.
 
 ---
 
-## Projects
+## 🧠 Skills
 
-- **Web Applications:**  
-  - Developed various web applications using the MERN stack, ensuring responsive design and efficient backend logic.
-  
-- **UI/UX Design:**  
-  - Collaborated with teams to craft user interfaces that offer optimal navigation and user experience.
-  
-- **Branding Projects:**  
-  - Designed brand identities and visual elements for startups and personal projects.
+### 💻 Development
+- **Languages:** Java, C++, HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, MongoDB (MERN)  
+- **Version Control:** Git & GitHub  
+- **Tools:** VS Code, Postman, MongoDB Atlas, Firebase  
 
----
-
-## Education
-
-- **Master’s in Computer Science** (In Progress)  
-  - *Savitribai Phule Pune University* | *Pursuing*
-
-- **Bachelor’s in Computer Science**  
-  - *Savitribai Phule Pune University* | *2023*
+### 🎨 Design
+- **Creative Tools:** Figma, Adobe Photoshop, Illustrator, Sketch  
+- **Specialties:** UI/UX Design, Wireframing, Branding & Identity  
 
 ---
 
-## Interests
+## 🧩 Projects
 
-- Web and Mobile App Development  
-- UI/UX Design and Human-Computer Interaction  
-- Graphics Design and Visual Storytelling  
+### 💻 Web Applications
+Developed multiple **MERN stack** projects with responsive layouts and optimized backend logic.
+
+### 🎨 UI/UX Designs
+Crafted interactive prototypes and interfaces focused on **user experience** and **accessibility**.
+
+### 🏷️ Branding Work
+Created logos and brand identities for startups and personal ventures.
+
+> 🖥️ *Check out more on my [Portfolio](https://yogeshingulkar.odoo.com/)*
+
+---
+
+## 🎓 Education
+
+- **Master’s in Computer Science** *(2023–2025)*  
+  🧾 Savitribai Phule Pune University  
+
+- **Bachelor’s in Computer Science** *(2020–2023)*  
+  🎓 Savitribai Phule Pune University  
+
+---
+
+## 🌱 Interests
+
+- Full-Stack Web Development  
+- UI/UX Design & Human-Computer Interaction  
+- Graphic Design & Digital Art  
 - Open-Source Contributions  
-- Cross-Functional Collaboration
+- Collaboration & Product Innovation  
 
 ---
 
-## Contact
+## 🛠️ Technologies & Tools
 
-Feel free to reach out for any collaboration opportunities, projects, or just a good tech discussion!
-
-- **Email:** yogeshingulkar750@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yogesh-ingulkar](https://linkedin.com/in/yogesh-ingulkar)  
-- **GitHub:** [github.com/yogeshingulkar](https://github.com/yogeshingulkar)  
-- **Portfolio:** [myportfolio.com](https://yogeshingulkar.odoo.com/) 
+| Category | Tools |
+|-----------|--------|
+| **Frontend** | React.js, HTML, CSS, Tailwind, JavaScript |
+| **Backend** | Node.js, Express.js, MongoDB, Firebase |
+| **Design** | Figma, Photoshop, Illustrator |
+| **Deployment** | Netlify, Vercel, Heroku, GitHub Pages |
 
 ---
 
-## Technologies & Tools I Use
+## 📫 Connect With Me
 
-- **Development:**  
-  - Node.js, Express.js, MongoDB, React.js, JavaScript, HTML/CSS
-- **Design & Prototyping:**  
-  - Adobe Suite (Photoshop, Illustrator), Figma, Sketch
-- **Version Control & Deployment:**  
-  - Git, GitHub, Netlify, Heroku, Vercel
+- 📧 **Email:** [yogeshingulkar750@gmail.com](mailto:yogeshingulkar750@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/yogesh-ingulkar](https://linkedin.com/in/yogesh-ingulkar)  
+- 💻 **GitHub:** [github.com/yogeshingulkar](https://github.com/yogeshingulkar)  
+- 🌐 **Portfolio:** [yogeshingulkar.odoo.com](https://ingulkar.netlify.app/)
+
+---
+
+⭐ *"Code with logic, design with emotion, and build with purpose."*  
+— **Yogesh Ingulkar**
