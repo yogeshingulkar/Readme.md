@@ -41,7 +41,7 @@ Crafted interactive prototypes and interfaces focused on **user experience** and
 ### 🏷️ Branding Work
 Created logos and brand identities for startups and personal ventures.
 
-> 🖥️ *Check out more on my [Portfolio](https://yogeshingulkar.odoo.com/)*
+> 🖥️ *Check out more on my [Portfolio](https://ingulkar.netlify.app/)*
 
 ---
 
