@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Yogesh Ingulkar
 
 **He/Him**  
+
 🎓 *Master’s Student in Computer Science (SPPU’25)*  
 💻 *Web-App Developer | UI/UX Enthusiast | Creative Designer*  
+
 ---
+
 ## 🚀 About Me
 
 I’m **Yogesh Ingulkar**, a passionate and creative **Web Developer** and **UI/UX Designer** pursuing my **Master’s in Computer Science**.  
@@ -11,7 +14,9 @@ I specialize in building **responsive web applications** using the **MERN stack*
 
 My mission?  
 To combine **code and creativity** to craft meaningful digital experiences that people *love to use*.
+
 ---
+
 ## 🧠 Skills
 
 ### 💻 Development
